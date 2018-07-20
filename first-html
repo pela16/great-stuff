@@ -1,0 +1,27 @@
+<!DOCTYPEhtml>
+
+<html>
+
+<head>
+
+<title>first-html</title>
+
+<style>
+h1{
+background-color: blue;
+color: red;
+};
+
+</style>
+
+</head>
+
+<body>
+
+<h1>This is my first HTML page</h1>
+
+<p>I'm going to do great things with HTML and CSS!</p>
+
+</body>
+
+</html>
